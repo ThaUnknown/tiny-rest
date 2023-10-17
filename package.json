@@ -2,9 +2,17 @@
   "name": "tiny-rest",
   "version": "1.0.0",
   "type": "module",
-  "description": "An absolutely tiny [12 LOC] REST API client, with no functionality omitted!",
+  "description": "An absolutely tiny [9 LOC] REST API client, with no functionality omitted!",
   "main": "index.js",
   "keywords": ["REST", "client", "fetch", "searchParams", "URLsearchParams", "REST client", "tiny", "API", "URL"],
   "author": "ThaUnknown",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThaUnknown/tiny-rest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThaUnknown/tiny-rest/issues"
+  },
+  "homepage": "https://github.com/ThaUnknown/tiny-rest#readme"
 }
