@@ -1,10 +1,10 @@
 {
   "name": "tiny-rest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "An absolutely tiny [9 LOC] REST API client, with no functionality omitted!",
   "main": "index.js",
-  "keywords": ["REST", "client", "fetch", "searchParams", "URLsearchParams", "REST client", "tiny", "API", "URL"],
+  "keywords": ["rest", "client", "fetch", "searchparams", "urlsearchparams", "rest client", "tiny", "api", "url", "tiny rest", "http"],
   "author": "ThaUnknown",
   "license": "MIT",
   "repository": {
